@@ -1,9 +1,10 @@
+import Navbar from "@/components/navbar";
 import React from "react";
 
 export default function Home() {
 	return (
 		<div>
-			<div>ini head</div>
+			<Navbar />
 			<div className='h-screen w-screen flex justify-center items-center'>
 				asdasd
 			</div>
