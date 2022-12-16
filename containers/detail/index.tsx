@@ -30,7 +30,7 @@ export default function DetailContainer() {
 
 	return (
 		<Layout>
-			<div className='hidden md:block flex gap-6'>
+			<div className='hidden md:flex gap-6 '>
 				<div className='basis-[40%]'>
 					<Image src={data?.image} className='mb-2' />
 					<div className='w-full py-4 px-6 text-white mb-4 bg-primary flex justify-between'>
@@ -83,7 +83,7 @@ export default function DetailContainer() {
 				/>
 				<Bayar data={data} />
 			</div>
-			<div className='pb-4'>
+			<div className='pb-4 mt-12'>
 				{sampah.map((e: CardData, index) => {
 					if (index > 3) return <></>;
 					return <Other data={e} key={e.id} />;
