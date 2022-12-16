@@ -22,6 +22,18 @@ export const Container = styled.div`
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: flex;
+
+	@media (max-width: 768px) {
+		background: linear-gradient(
+				40deg,
+				rgba(16, 75, 11, 1) 24%,
+				rgba(23, 64, 24, 1) 55%,
+				rgba(24, 62, 26, 0.95) 70%,
+				rgba(26, 60, 29, 0.8) 81%,
+				rgba(36, 42, 50, 0.4007352941176471) 100%
+			),
+			url("assets/images/bg.jpg");
+	}
 `;
 
 export const TextField = styled.input`

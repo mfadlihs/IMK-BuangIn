@@ -1,10 +1,20 @@
+/* eslint-disable @next/next/no-img-element */
+import { AppContext } from "@/pages/_app";
 import Link from "next/link";
-import React, { FormEventHandler } from "react";
+import { useRouter } from "next/router";
+import React, { FormEventHandler, useContext } from "react";
 import { Container, TextField } from "./style";
 
 export default function LoginContainer() {
+	const {
+		user: { setIsUser },
+	} = useContext(AppContext);
+
+	const router = useRouter();
 	const handleSubmit: FormEventHandler = e => {
 		e.preventDefault();
+		setIsUser(true);
+		router.push("/");
 	};
 
 	return (
@@ -33,7 +43,7 @@ export default function LoginContainer() {
 						required
 					/>
 					<button
-						className='bg-tertiary w-full py-5 rounded-xl font-bold text-3xl border-none cursor-pointer'
+						className='bg-tertiary w-full py-2 md:py-5 rounded-xl font-bold text-2xl md:text-3xl border-none cursor-pointer'
 						type='submit'>
 						Masuk
 					</button>
@@ -45,7 +55,7 @@ export default function LoginContainer() {
 					</div>
 				</form>
 			</div>
-			<div className='basis-[50%] hidden md:block'></div>
+			<div className='basis-[50%] hidden lg:block'></div>
 		</Container>
 	);
 }
