@@ -25,7 +25,7 @@ export default function Other({ data }: { data: CardData }) {
 						<StarOutline /> {data.rating} / 5.0
 					</div>
 					<div className='font-bold text-2xl'>{data.title}</div>
-					<div className='font-semibold text-lg'>
+					<div className=' text-lg'>
 						{data.description.replace(/<\/?[^>]+(>|$)/g, "").slice(0, 300)} ...
 					</div>
 				</div>

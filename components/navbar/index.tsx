@@ -52,12 +52,14 @@ export default function Navbar() {
 							</span>
 						</div>
 						{isUser ? (
-							<Image
-								src={"/assets/icons/profile.png"}
-								width={52}
-								height={52}
-								alt='profile'
-							/>
+							<Link href='/profile'>
+								<Image
+									src={"/assets/icons/profile.png"}
+									width={52}
+									height={52}
+									alt='profile'
+								/>
+							</Link>
 						) : (
 							<Link href='/login'>
 								<Button className='bg-secondary text-black' variant='contained'>
@@ -82,10 +84,12 @@ export default function Navbar() {
 					<CloseIcon fontSize='large' className='text-white' />
 				</div>
 				{isUser ? (
-					<div className='flex text-2xl text-white mt-4 gap-4 items-center'>
-						<img src='/assets/icons/profile.png' />
-						Profile
-					</div>
+					<Link href={"/profile"}>
+						<div className='flex text-2xl text-white mt-4 gap-4 items-center'>
+							<img src='/assets/icons/profile.png' />
+							Profile
+						</div>
+					</Link>
 				) : (
 					<Link href='/login'>
 						<Button

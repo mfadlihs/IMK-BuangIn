@@ -6,7 +6,7 @@ export default function Bayar({ data }: { data: CardData }) {
 	const [current, setCurrent] = useState(0);
 
 	return (
-		<div className='bg-primary p-3 rounded-lg flex flex-col sm:flow-row gap-2 select-none'>
+		<div className='bg-primary p-3 rounded-lg flex flex-col sm:flex-row gap-2 select-none'>
 			<div className='bg-secondary py-4 px-8 basis-[50%]'>
 				<div className='flex gap-4 mb-4'>
 					<div
