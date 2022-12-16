@@ -19,3 +19,12 @@ a {
 	color: unset;
 	text-decoration: none;
 }
+
+@layer base {
+	.login-text {
+		@apply font-semibold text-[#dadada] sm:text-3xl md:text-4xl;
+	}
+	.login-text-input {
+		@apply text-xl md:text-2xl;
+	}
+}
