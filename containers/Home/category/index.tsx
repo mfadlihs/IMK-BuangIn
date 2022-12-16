@@ -8,18 +8,26 @@ export default function Category() {
 			</div>
 			<div className='grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-y-3 gap-x-4'>
 				<div className=''>
-					<img src='/assets/images/besi.png' alt='sampah' className='w-full' />
+					<img
+						src='/assets/images/besi.png'
+						alt='sampah'
+						className='w-full h-64'
+					/>
 					<div className='text-xl text-center'>Besi</div>
 				</div>
 				<div className=''>
-					<img src='/assets/images/kaca.png' alt='sampah' className='w-full' />
+					<img
+						src='/assets/images/kaca.png'
+						alt='sampah'
+						className='w-full h-64'
+					/>
 					<div className='text-xl text-center'>Kaca</div>
 				</div>
 				<div className=''>
 					<img
 						src='/assets/images/styrofoam.png'
 						alt='sampah'
-						className='w-full'
+						className='w-full h-64'
 					/>
 					<div className='text-xl text-center'>Styrofoam</div>
 				</div>
@@ -27,7 +35,7 @@ export default function Category() {
 					<img
 						src='/assets/images/plastik.png'
 						alt='sampah'
-						className='w-full'
+						className='w-full h-64'
 					/>
 					<div className='text-xl text-center'>Plastik</div>
 				</div>
@@ -35,7 +43,7 @@ export default function Category() {
 					<img
 						src='/assets/images/kertas.png'
 						alt='sampah'
-						className='w-full'
+						className='w-full h-64'
 					/>
 					<div className='text-xl text-center'>Kertas</div>
 				</div>

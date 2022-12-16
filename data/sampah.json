@@ -1,0 +1,74 @@
+[
+	{
+		"id": 0,
+		"image": "/assets/images/plastik.png",
+		"title": "Plastik Jarum",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "3.2",
+		"harga": "Rp10.000"
+	},
+	{
+		"id": 1,
+		"image": "/assets/images/besi.png",
+		"title": "Besi Anti Lecet",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "4.1",
+		"harga": "Rp500.000"
+	},
+	{
+		"id": 2,
+		"image": "/assets/images/kaca.png",
+		"title": "Kaca Anti Maling",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "2.1",
+		"harga": "Rp210.000"
+	},
+	{
+		"id": 3,
+		"image": "/assets/images/kertas.png",
+		"title": "Kertas Ujian",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "3.9",
+		"harga": "Rp900"
+	},
+	{
+		"id": 4,
+		"image": "/assets/images/styrofoam.png",
+		"title": "Styrofoam Putih",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "4.3",
+		"harga": "Rp35.000"
+	},
+	{
+		"id": 5,
+		"image": "/assets/images/plastik.png",
+		"title": "Plastik Cimol",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "4.8",
+		"harga": "Rp1.500"
+	},
+	{
+		"id": 6,
+		"image": "/assets/images/kaca.png",
+		"title": "Kaca Presiden",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "3.8",
+		"harga": "Rp56.000"
+	},
+	{
+		"id": 7,
+		"image": "/assets/images/besi.png",
+		"title": "Besi 1 Gram",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "1.9",
+		"harga": "Rp290.000"
+	},
+	{
+		"id": 8,
+		"image": "/assets/images/kertas.png",
+		"title": "Kertas Ajaib",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu nisl a lectus pellentesque congue commodo eu erat. Nulla cursus, mauris et venenatis fermentum, nulla nisl dictum libero, quis tempor augue ante non metus. Quisque ultricies sem sit amet aliquet cursus. Phasellus luctus erat at magna venenatis, vel hendrerit tortor malesuada. Maecenas eget aliquam libero, ut condimentum eros. Nam sed tortor sagittis, ullamcorper mi eget, venenatis odio. In tempus ornare ultricies. Duis imperdiet orci vitae tristique accumsan. Donec interdum ligula ipsum, a imperdiet ligula commodo non.<br/><br/>Sed suscipit nibh dolor, eget condimentum orci malesuada vel. Sed in ligula eu enim porttitor malesuada id sit amet felis. Vestibulum facilisis elementum malesuada. Nunc sed cursus erat. Nullam pulvinar iaculis lacinia. Donec justo nisl, accumsan a est at, pellentesque auctor sapien. Pellentesque ut varius libero.<br/><br/>Curabitur id imperdiet orci. Fusce id tempus est. Quisque id commodo justo. Etiam ac nunc in lacus volutpat imperdiet. Phasellus id nibh in leo placerat suscipit. Curabitur ac scelerisque quam. Nunc vitae metus non risus tristique semper. Mauris vulputate massa eu tellus vehicula ullamcorper id id orci. Maecenas vitae dapibus odio, non porttitor ipsum. Morbi id felis non neque imperdiet vehicula ut et lectus. Ut quis lacus ultrices, porttitor dolor et, porttitor eros. Proin venenatis mauris non dui luctus lobortis. Vivamus at nisi pharetra, commodo dolor eget, imperdiet dolor. ",
+		"rating": "4.9",
+		"harga": "Rp555.555"
+	}
+]
